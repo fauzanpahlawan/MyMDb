@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMDb</string>
+    <string-array name="spinner_main_menus">
+        <item>Popular Movies</item>
+        <item>Top Rated Movies</item>
+    </string-array>
+</resources>
