@@ -22,5 +22,4 @@
             android:parentActivityName=".MainActivity"
             tools:targetApi="jelly_bean" />
     </application>
-
 </manifest>
